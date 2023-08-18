@@ -2,3 +2,4 @@
 
 Machine learning model to classify polymers based on their antimicrobial activity.
 
+Code in folder `code/`.
